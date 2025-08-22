@@ -1,0 +1,42 @@
+<Window x:Class="VendoraBookWatcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Vendora Book Watcher" 
+        Height="230" Width="480"
+        SizeToContent="Manual"
+        ResizeMode="CanResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Τίτλος -->
+        <TextBlock Text="Vendora Book Watcher" 
+                   FontSize="18" 
+                   FontWeight="Bold" />
+
+        <!-- Κατάσταση -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,12,0,0" VerticalAlignment="Center">
+            <TextBlock Text="Κατάσταση: " FontWeight="Bold"/>
+            <TextBlock Name="StatusText" Text="Έτοιμο" Margin="6,0,0,0"/>
+        </StackPanel>
+
+        <!-- Ρυθμίσεις -->
+        <StackPanel Grid.Row="2" Orientation="Vertical" Margin="0,12,0,0">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Διάστημα ελέγχου (δευτ.): " VerticalAlignment="Center"/>
+                <TextBox Name="IntervalBox" Width="46" Text="60" Margin="8,0,0,0"/>
+                <Button Name="SaveBtn" Content="Εφαρμογή" Margin="8,0,0,0" Padding="12,6" Click="SaveBtn_Click"/>
+                <Button Name="ShowPopupBtn" Content="Δοκιμαστικό Popup" Margin="8,0,0,0" Padding="12,6" Click="ShowPopupBtn_Click"/>
+            </StackPanel>
+
+            <TextBlock Margin="0,12,0,0" TextWrapping="Wrap">
+                Το πρόγραμμα τρέχει στο tray. Κλείσε το παράθυρο για να ελαχιστοποιηθεί.
+                Δεξί κλικ στο tray icon → Έξοδος.
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

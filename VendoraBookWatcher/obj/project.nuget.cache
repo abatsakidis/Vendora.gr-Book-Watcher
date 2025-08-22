@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pX6YYikN+ws=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mantis\\Downloads\\VendoraBookWatcher\\VendoraBookWatcher\\VendoraBookWatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mantis\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}

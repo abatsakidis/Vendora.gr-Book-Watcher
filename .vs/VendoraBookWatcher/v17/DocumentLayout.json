@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mantis\\Downloads\\VendoraBookWatcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mantis\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDFBDA4-3B7E-4B9E-9A4B-7A12A2A91510}|VendoraBookWatcher\\VendoraBookWatcher.csproj|c:\\users\\mantis\\downloads\\vendorabookwatcher\\vendorabookwatcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDFBDA4-3B7E-4B9E-9A4B-7A12A2A91510}|VendoraBookWatcher\\VendoraBookWatcher.csproj|solutionrelative:vendorabookwatcher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDFBDA4-3B7E-4B9E-9A4B-7A12A2A91510}|VendoraBookWatcher\\VendoraBookWatcher.csproj|c:\\users\\mantis\\downloads\\vendorabookwatcher\\vendorabookwatcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1BDFBDA4-3B7E-4B9E-9A4B-7A12A2A91510}|VendoraBookWatcher\\VendoraBookWatcher.csproj|solutionrelative:vendorabookwatcher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\mantis\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\mantis\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAiwLUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:05:26.268Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mantis\\Downloads\\VendoraBookWatcher\\VendoraBookWatcher\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VendoraBookWatcher\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mantis\\Downloads\\VendoraBookWatcher\\VendoraBookWatcher\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VendoraBookWatcher\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:57:19.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mantis\\Downloads\\VendoraBookWatcher\\VendoraBookWatcher\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VendoraBookWatcher\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mantis\\Downloads\\VendoraBookWatcher\\VendoraBookWatcher\\MainWindow.xaml",
+              "RelativeToolTip": "VendoraBookWatcher\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T10:41:38.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
