@@ -39,8 +39,8 @@ git clone https://github.com/abatsakidis/Vendora.gr-Book-Watcher.git
   
 ## 📄 Screenshots
 
-![App Screenshot](./Screenshot/screen01.jpg)
-![App Screenshot](./Screenshot/screen02.jpg)
+![App Screenshot](./screenshot/screen01.jpg)
+![App Screenshot](./screenshot/screen02.jpg)
 
 ## 📄 Άδεια Χρήσης
 
